@@ -1,4 +1,4 @@
-# Git_course
+# Brecrowd
 
 for practicing
 
